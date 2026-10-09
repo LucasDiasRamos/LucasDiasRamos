@@ -25,11 +25,17 @@ My main interests are **retrieval-augmented generation (RAG), computer vision, A
 
 **Languages & application development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" width="44" height="44" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="44" height="44" />
+</p>
 
 **Backend, frontend & data**
 
@@ -63,29 +69,6 @@ My main interests are **retrieval-augmented generation (RAG), computer vision, A
 - **Intelligent robotics:** perception, depth cameras, and motion experiments with the Unitree G1 humanoid robot.
 - **Reliable document AI:** better retrieval quality, source attribution, testing, and robust user experiences.
 - **Applied research:** computer science research and unconventional computing.
-
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-
-**A visual snapshot of my public contributions and code activity.**
-
-<img src="./assets/metrics-isocalendar.svg" alt="Isometric calendar of public GitHub contributions over the past year" width="650">
-
-<img src="./assets/metrics-languages.svg" alt="Programming language breakdown based on public GitHub repositories" width="480">
-
-</div>
-
-<details>
-<summary><b>📰 Recent public GitHub activity</b></summary>
-
-<div align="center">
-<img src="./assets/metrics-activity.svg" alt="Recent publicly visible GitHub activity" width="600">
-</div>
-
-</details>
-
-<sub>Charts generated with [lowlighter/metrics](https://github.com/lowlighter/metrics) using public GitHub data. Language percentages reflect repository contents, not skill level. Graphics update weekly after the workflow is configured and first run succeeds.</sub>
 
 ### 🤝 Let's connect
 
