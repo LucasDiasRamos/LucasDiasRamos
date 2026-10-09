@@ -64,6 +64,29 @@ My main interests are **retrieval-augmented generation (RAG), computer vision, A
 - **Reliable document AI:** better retrieval quality, source attribution, testing, and robust user experiences.
 - **Applied research:** computer science research and unconventional computing.
 
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+
+**A visual snapshot of my public contributions and code activity.**
+
+<img src="./assets/metrics-isocalendar.svg" alt="Isometric calendar of public GitHub contributions over the past year" width="650">
+
+<img src="./assets/metrics-languages.svg" alt="Programming language breakdown based on public GitHub repositories" width="480">
+
+</div>
+
+<details>
+<summary><b>📰 Recent public GitHub activity</b></summary>
+
+<div align="center">
+<img src="./assets/metrics-activity.svg" alt="Recent publicly visible GitHub activity" width="600">
+</div>
+
+</details>
+
+<sub>Charts generated with [lowlighter/metrics](https://github.com/lowlighter/metrics) using public GitHub data. Language percentages reflect repository contents, not skill level. Graphics update weekly after the workflow is configured and first run succeeds.</sub>
+
 ### 🤝 Let's connect
 
 I'm interested in **remote software development roles, AI/backend projects, and technical collaborations**. Explore my repositories to see the code, architecture, and ongoing work.
